@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "youtube-dl",
+    "builds": [
+        { "src": "*.py", "use": "@liudonghua123/now-flask" }
+        
+    ]
+}
